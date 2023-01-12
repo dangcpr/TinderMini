@@ -10,7 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven {url 'https://jitpack.io'}
+        maven { url "https://repo.sendbird.com/public/maven" }
+        maven { url "https://oss.jfrog.org/artifactory/oss-snapshot-local" }
     }
 }
-rootProject.name = "TinderMini"
+rootProject.name = "TinderForIT"
 include ':app'

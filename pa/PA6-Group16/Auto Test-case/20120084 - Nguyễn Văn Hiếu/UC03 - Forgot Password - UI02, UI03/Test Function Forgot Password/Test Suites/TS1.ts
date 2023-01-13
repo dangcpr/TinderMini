@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>52884543-3fe6-4c8a-8cbf-25d6a9fb89a7</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a273d62-1d02-4013-a2a1-fecdb6238962</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'emailnotexists@gmail.com'</defaultValue>
+         <description></description>
+         <id>6970cf77-da88-4846-9fea-4b8a587ee117</id>
+         <masked>false</masked>
+         <name>email</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Forgot password but email not exists</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>e1d9c097-2708-4987-af16-58eca7a03851</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data 1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e1d9c097-2708-4987-af16-58eca7a03851</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>6970cf77-da88-4846-9fea-4b8a587ee117</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login by Email - Email and Pass right</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6291bbab-ce98-4d79-8597-f5655d4c9fa8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c757b4bf-b0cb-4de2-ac06-525c5302ad28</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c757b4bf-b0cb-4de2-ac06-525c5302ad28</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>User</value>
+      <variableId>1b3aa779-4944-4032-9699-df5eaeae07bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c757b4bf-b0cb-4de2-ac06-525c5302ad28</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Pass</value>
+      <variableId>b9c1ab3e-ab08-4060-9af6-e2bfd1a0b586</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b3aa779-4944-4032-9699-df5eaeae07bf</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9c1ab3e-ab08-4060-9af6-e2bfd1a0b586</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

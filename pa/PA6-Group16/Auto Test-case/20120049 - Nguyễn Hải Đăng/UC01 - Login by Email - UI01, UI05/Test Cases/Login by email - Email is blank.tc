@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login by email - Email is blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d26afd0-3e65-4364-b79f-bd9806d519bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc84cc53-e16c-43ad-8808-da9ac3997826</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51f9af8c-d6e4-4c47-a1b4-b6e0c9bc3568</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc84cc53-e16c-43ad-8808-da9ac3997826</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51f9af8c-d6e4-4c47-a1b4-b6e0c9bc3568</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

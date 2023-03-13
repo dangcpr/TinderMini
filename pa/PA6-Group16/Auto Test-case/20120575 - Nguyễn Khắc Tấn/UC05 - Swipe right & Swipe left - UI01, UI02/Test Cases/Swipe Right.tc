@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Swipe Right</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2edb16db-f8c8-4436-9b94-506bd3f1e6af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e5a72f4-c9dc-47e7-9cb0-6b58f1edf713</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e521bba7-53cc-4937-b1a7-01c054956439</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>50</defaultValue>
+      <description></description>
+      <id>1e5a72f4-c9dc-47e7-9cb0-6b58f1edf713</id>
+      <masked>false</masked>
+      <name>device_Width</name>
+   </variable>
+   <variable>
+      <defaultValue>50</defaultValue>
+      <description></description>
+      <id>e521bba7-53cc-4937-b1a7-01c054956439</id>
+      <masked>false</masked>
+      <name>device_Height</name>
+   </variable>
+</TestCaseEntity>

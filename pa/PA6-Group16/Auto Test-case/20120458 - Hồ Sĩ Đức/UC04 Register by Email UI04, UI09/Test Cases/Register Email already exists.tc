@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Email already exists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a78d5346-4ce9-4777-9d1c-49c2ea72aebd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2c82e20-c2d5-41bf-8fe4-3f331c16d5ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4bc249d-9dcc-4a6b-8490-a9913b9a4e59</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e56f0c9-9864-451a-9bee-9afba3c214ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hosiduc2002.chem@gmail.com'</defaultValue>
+      <description></description>
+      <id>d2c82e20-c2d5-41bf-8fe4-3f331c16d5ee</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>d4bc249d-9dcc-4a6b-8490-a9913b9a4e59</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>7e56f0c9-9864-451a-9bee-9afba3c214ed</id>
+      <masked>false</masked>
+      <name>confirm</name>
+   </variable>
+</TestCaseEntity>
